@@ -1,0 +1,51 @@
+.nav-link{
+    color:#757575;
+}
+#section3 h1{
+    font-size: 1.5em;
+    font-weight:400;
+}
+#section3 hr{
+    border-bottom: 2px solid black;
+    width:50px;
+}
+#section3 p{
+    font-size:0.9em;
+    line-height:1.7;
+}
+#section3 img{
+    width:25px;
+    height: 25px;
+}
+#section4{
+    background-color: #f2f2f2;
+}
+#section4 img{
+    transition: all 0.5s ease;
+}
+#section4 img:hover{
+    box-shadow:0 0 10px 0px gray;
+}
+#section4 h1{
+ font-size: 1.9em;
+ font-weight:400;
+}
+#section4 hr{
+ border-bottom: 2px solid black;
+ width:50px;
+}
+#section5 h1{
+    font-size: 1.9em;
+    font-weight:400;
+}
+#section5 hr{
+    border-bottom: 2px solid black;
+    width:50px;
+}
+#section6{
+    background-color: #f2f2f2;
+}
+#section6 hr{
+    width:80%;
+    border-bottom: 1px solid black;
+}
